@@ -1,0 +1,29 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+}
+.wrapper{
+    padding: 8px;
+}
+.main{
+    margin: 10px;
+
+}
+canvas { 
+    background: #eee; 
+    display: block;  
+    margin: 0 auto; 
+    
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: brown;
+    font-size: 24px;
+    font-weight: bold;
+}
+.speed_container{
+    padding-left: 120px;
+}
+
